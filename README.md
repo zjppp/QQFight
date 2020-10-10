@@ -68,7 +68,7 @@
 
 ## 使用文档
 
-* [使用文档 / DOC.md](./INSTRUCTIONS.md)
+* [使用文档 / DOC.md](./DOC.md)
 * [更新日志 / CHANGELOG.md](./CHANGELOG.md)
 
 ## License
