@@ -1,10 +1,13 @@
 # QQFight
+
 > Q宠大乐斗代玩脚本
 
 ## 简介
+
 一款使用python写的Q宠大乐斗游戏代玩脚本。
 
 ## 功能
+
 | 描述         | 版本     |
 | ------------ | -------- |
 | 账号登录     | 20200803 |
@@ -44,6 +47,7 @@
 | 竞技场       | 20200803 |
 
 ## 待完成功能
+
 - [ ] 领奖
 - [ ] 日常任务
 - [ ] 每周活动
@@ -59,12 +63,15 @@
 - [ ] 日终推送
 
 ## 环境依赖
+
 - python 3.7
 
 ## 使用文档
+
 * [使用文档 / DOC.md](./DOC.md)
 * [更新日志 / CHANGELOG.md](./CHANGELOG.md)
 
 ## License
+
 QQFight is released under the [MIT License](http://www.opensource.org/licenses/mit-license). 
 本项目基于MIT协议。
