@@ -1,0 +1,14 @@
+# 启用的用户列表
+[userlist]
+list = [player0,player1]
+
+# 用户信息，需要填写QQ号及密码，cookie无需手动填写
+[player0]
+username = QQ号1
+password = 密码1
+cookie = 
+
+[player1]
+username = QQ号2
+password = 密码2
+cookie = 
