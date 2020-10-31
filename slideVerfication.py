@@ -149,10 +149,14 @@ class SlideVerificationCode():
             self.image_crop(background, loc)
         else:
             # 删除识别过程中保存的临时文件
-            os.remove(slider01)
-            os.remove(background_01)
-            os.remove(slider)
-            os.remove(background)
+            if os.path.exists(slider01):
+                os.remove(slider01)
+            if os.path.exists(background_01):
+                os.remove(background_01)
+            if os.path.exists(slider):
+                os.remove(slider)
+            if os.path.exists(background):
+                os.remove(background)
 
         # 返回需要移动的位置距离
         return left
